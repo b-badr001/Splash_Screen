@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Splash_Screen</string>
+    <string name="login" translatable="false">LOGIN</string>
+    <string name="info" translatable="false">User Informations</string>
+    <string name="welcometext" translatable="false">Welcome</string>
+    <string name="user_name" translatable="false">User Name</string>
+    <string name="password" translatable="false">Password</string>
+</resources>
